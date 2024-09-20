@@ -1,0 +1,29 @@
+header{
+    background-color: purple;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.video{
+    padding: 30px;
+    text-align: center;
+    background-color: black;
+    color: purple;
+}
+
+.video h2{
+    margin-bottom: 20px;
+}
+
+*{
+    margin: 0;
+}
+
+footer{
+    padding: 20px;
+    text-align: center;
+    color: white;
+    background-color: purple;
+}
